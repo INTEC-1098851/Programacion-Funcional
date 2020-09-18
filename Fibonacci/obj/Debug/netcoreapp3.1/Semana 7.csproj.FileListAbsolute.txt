@@ -1,0 +1,17 @@
+C:\Users\fredd\Desktop\OneDrive - INTEC\AGO-OCT-2020\INS-214-Programacion-2\Semana 7\obj\Debug\netcoreapp3.1\Semana 7.csprojAssemblyReference.cache
+C:\Users\fredd\Desktop\OneDrive - INTEC\AGO-OCT-2020\INS-214-Programacion-2\Semana 7\obj\Debug\netcoreapp3.1\Semana 7.AssemblyInfoInputs.cache
+C:\Users\fredd\Desktop\OneDrive - INTEC\AGO-OCT-2020\INS-214-Programacion-2\Semana 7\obj\Debug\netcoreapp3.1\Semana 7.AssemblyInfo.cs
+C:\Users\fredd\Desktop\OneDrive - INTEC\AGO-OCT-2020\INS-214-Programacion-2\Semana 7\obj\Debug\netcoreapp3.1\Semana 7.csproj.CoreCompileInputs.cache
+C:\Users\fredd\Desktop\OneDrive - INTEC\AGO-OCT-2020\INS-214-Programacion-2\Semana-7\obj\Debug\netcoreapp3.1\Semana 7.csprojAssemblyReference.cache
+C:\Users\fredd\Desktop\OneDrive - INTEC\AGO-OCT-2020\INS-214-Programacion-2\Semana-7\obj\Debug\netcoreapp3.1\Semana 7.AssemblyInfoInputs.cache
+C:\Users\fredd\Desktop\OneDrive - INTEC\AGO-OCT-2020\INS-214-Programacion-2\Semana-7\obj\Debug\netcoreapp3.1\Semana 7.AssemblyInfo.cs
+C:\Users\fredd\Desktop\OneDrive - INTEC\AGO-OCT-2020\INS-214-Programacion-2\Semana-7\obj\Debug\netcoreapp3.1\Semana 7.csproj.CoreCompileInputs.cache
+C:\Users\fredd\Desktop\OneDrive - INTEC\AGO-OCT-2020\INS-214-Programacion-2\Semana-7\bin\Debug\netcoreapp3.1\Semana 7.exe
+C:\Users\fredd\Desktop\OneDrive - INTEC\AGO-OCT-2020\INS-214-Programacion-2\Semana-7\bin\Debug\netcoreapp3.1\Semana 7.deps.json
+C:\Users\fredd\Desktop\OneDrive - INTEC\AGO-OCT-2020\INS-214-Programacion-2\Semana-7\bin\Debug\netcoreapp3.1\Semana 7.runtimeconfig.json
+C:\Users\fredd\Desktop\OneDrive - INTEC\AGO-OCT-2020\INS-214-Programacion-2\Semana-7\bin\Debug\netcoreapp3.1\Semana 7.runtimeconfig.dev.json
+C:\Users\fredd\Desktop\OneDrive - INTEC\AGO-OCT-2020\INS-214-Programacion-2\Semana-7\bin\Debug\netcoreapp3.1\Semana 7.dll
+C:\Users\fredd\Desktop\OneDrive - INTEC\AGO-OCT-2020\INS-214-Programacion-2\Semana-7\bin\Debug\netcoreapp3.1\Semana 7.pdb
+C:\Users\fredd\Desktop\OneDrive - INTEC\AGO-OCT-2020\INS-214-Programacion-2\Semana-7\obj\Debug\netcoreapp3.1\Semana 7.dll
+C:\Users\fredd\Desktop\OneDrive - INTEC\AGO-OCT-2020\INS-214-Programacion-2\Semana-7\obj\Debug\netcoreapp3.1\Semana 7.pdb
+C:\Users\fredd\Desktop\OneDrive - INTEC\AGO-OCT-2020\INS-214-Programacion-2\Semana-7\obj\Debug\netcoreapp3.1\Semana 7.genruntimeconfig.cache

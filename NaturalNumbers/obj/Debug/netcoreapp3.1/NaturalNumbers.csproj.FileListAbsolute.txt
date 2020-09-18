@@ -1,0 +1,13 @@
+C:\Users\fredd\Desktop\OneDrive - INTEC\AGO-OCT-2020\INS-214-Programacion-2\Semana-7\NaturalNumbers\bin\Debug\netcoreapp3.1\NaturalNumbers.exe
+C:\Users\fredd\Desktop\OneDrive - INTEC\AGO-OCT-2020\INS-214-Programacion-2\Semana-7\NaturalNumbers\bin\Debug\netcoreapp3.1\NaturalNumbers.deps.json
+C:\Users\fredd\Desktop\OneDrive - INTEC\AGO-OCT-2020\INS-214-Programacion-2\Semana-7\NaturalNumbers\bin\Debug\netcoreapp3.1\NaturalNumbers.runtimeconfig.json
+C:\Users\fredd\Desktop\OneDrive - INTEC\AGO-OCT-2020\INS-214-Programacion-2\Semana-7\NaturalNumbers\bin\Debug\netcoreapp3.1\NaturalNumbers.runtimeconfig.dev.json
+C:\Users\fredd\Desktop\OneDrive - INTEC\AGO-OCT-2020\INS-214-Programacion-2\Semana-7\NaturalNumbers\bin\Debug\netcoreapp3.1\NaturalNumbers.dll
+C:\Users\fredd\Desktop\OneDrive - INTEC\AGO-OCT-2020\INS-214-Programacion-2\Semana-7\NaturalNumbers\bin\Debug\netcoreapp3.1\NaturalNumbers.pdb
+C:\Users\fredd\Desktop\OneDrive - INTEC\AGO-OCT-2020\INS-214-Programacion-2\Semana-7\NaturalNumbers\obj\Debug\netcoreapp3.1\NaturalNumbers.csprojAssemblyReference.cache
+C:\Users\fredd\Desktop\OneDrive - INTEC\AGO-OCT-2020\INS-214-Programacion-2\Semana-7\NaturalNumbers\obj\Debug\netcoreapp3.1\NaturalNumbers.AssemblyInfoInputs.cache
+C:\Users\fredd\Desktop\OneDrive - INTEC\AGO-OCT-2020\INS-214-Programacion-2\Semana-7\NaturalNumbers\obj\Debug\netcoreapp3.1\NaturalNumbers.AssemblyInfo.cs
+C:\Users\fredd\Desktop\OneDrive - INTEC\AGO-OCT-2020\INS-214-Programacion-2\Semana-7\NaturalNumbers\obj\Debug\netcoreapp3.1\NaturalNumbers.csproj.CoreCompileInputs.cache
+C:\Users\fredd\Desktop\OneDrive - INTEC\AGO-OCT-2020\INS-214-Programacion-2\Semana-7\NaturalNumbers\obj\Debug\netcoreapp3.1\NaturalNumbers.dll
+C:\Users\fredd\Desktop\OneDrive - INTEC\AGO-OCT-2020\INS-214-Programacion-2\Semana-7\NaturalNumbers\obj\Debug\netcoreapp3.1\NaturalNumbers.pdb
+C:\Users\fredd\Desktop\OneDrive - INTEC\AGO-OCT-2020\INS-214-Programacion-2\Semana-7\NaturalNumbers\obj\Debug\netcoreapp3.1\NaturalNumbers.genruntimeconfig.cache
